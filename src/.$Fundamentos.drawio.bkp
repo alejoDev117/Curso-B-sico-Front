@@ -1,0 +1,22 @@
+<mxfile host="Electron" modified="2025-03-23T21:41:55.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="BB-b3RzF5-J7BWnqJ9Eo" version="22.0.3" type="device">
+  <diagram name="Página-1" id="QkL-IJ975fGMbPAu6Ck7">
+    <mxGraphModel dx="3453" dy="1600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iqIk_BVdByYRMyYXO8r5-2" value="&lt;h1&gt;Fundamentos Desarrollo Web&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="230" width="430" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iqIk_BVdByYRMyYXO8r5-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.platzi.com/media/user_upload/frontend-2de42ca9-7413-46de-b411-31d3f1b8b8d0.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="270" width="475" height="502.21" as="geometry" />
+        </mxCell>
+        <mxCell id="iqIk_BVdByYRMyYXO8r5-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.platzi.com/media/user_upload/BACK-END-286e8b77-8abe-413c-9f3e-5b502d655fb1.jpg;" vertex="1" parent="1">
+          <mxGeometry x="390" y="270" width="389.17" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="iqIk_BVdByYRMyYXO8r5-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.platzi.com/media/user_upload/Fullstack-12ecb042-2e6b-47ea-a9a5-7269e670c905.jpg;" vertex="1" parent="1">
+          <mxGeometry x="800" y="270" width="730" height="504.92" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
